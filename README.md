@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#27](https://github.com//modulz/stitches/issues/27) in [modulz/stitches](https://github.com//modulz/stitches)
 2. 🗣 Commented on [#27](https://github.com//modulz/stitches/issues/27) in [modulz/stitches](https://github.com//modulz/stitches)
 3. 🗣 Commented on [#27](https://github.com//modulz/stitches/issues/27) in [modulz/stitches](https://github.com//modulz/stitches)
-4. 🎉 Merged PR [#79](https://github.com//kuldeepkeshwar/filbert-js/pull/79) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
-5. 💪 Opened PR [#79](https://github.com//kuldeepkeshwar/filbert-js/pull/79) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
+4. 🗣 Commented on [#27](https://github.com//modulz/stitches/issues/27) in [modulz/stitches](https://github.com//modulz/stitches)
+5. 🎉 Merged PR [#79](https://github.com//kuldeepkeshwar/filbert-js/pull/79) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
 <!--END_SECTION:activity-->
