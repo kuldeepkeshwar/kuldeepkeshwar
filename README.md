@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#27](https://github.com//modulz/stitches/issues/27) in [modulz/stitches](https://github.com//modulz/stitches)
 2. 🗣 Commented on [#27](https://github.com//modulz/stitches/issues/27) in [modulz/stitches](https://github.com//modulz/stitches)
-3. 🎉 Merged PR [#79](https://github.com//kuldeepkeshwar/filbert-js/pull/79) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
-4. 💪 Opened PR [#79](https://github.com//kuldeepkeshwar/filbert-js/pull/79) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
-5. 🗣 Commented on [#39](https://github.com//kuldeepkeshwar/layout-ui/issues/39) in [kuldeepkeshwar/layout-ui](https://github.com//kuldeepkeshwar/layout-ui)
+3. 🗣 Commented on [#27](https://github.com//modulz/stitches/issues/27) in [modulz/stitches](https://github.com//modulz/stitches)
+4. 🎉 Merged PR [#79](https://github.com//kuldeepkeshwar/filbert-js/pull/79) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
+5. 💪 Opened PR [#79](https://github.com//kuldeepkeshwar/filbert-js/pull/79) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
 <!--END_SECTION:activity-->
