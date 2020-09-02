@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#27](https://github.com//modulz/stitches/issues/27) in [modulz/stitches](https://github.com//modulz/stitches)
 3. 🗣 Commented on [#27](https://github.com//modulz/stitches/issues/27) in [modulz/stitches](https://github.com//modulz/stitches)
 4. 🗣 Commented on [#27](https://github.com//modulz/stitches/issues/27) in [modulz/stitches](https://github.com//modulz/stitches)
-5. 🎉 Merged PR [#79](https://github.com//kuldeepkeshwar/filbert-js/pull/79) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
+5. 🗣 Commented on [#27](https://github.com//modulz/stitches/issues/27) in [modulz/stitches](https://github.com//modulz/stitches)
 <!--END_SECTION:activity-->
