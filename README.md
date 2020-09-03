@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ![Kuldeep Keshwar's github stats](https://github-readme-stats.vercel.app/api?username=kuldeepkeshwar&show_icons=true)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com//kuldeepkeshwar/layout-ui/issues/39) in [kuldeepkeshwar/layout-ui](https://github.com//kuldeepkeshwar/layout-ui)
-2. 🎉 Merged PR [#49](https://github.com//kuldeepkeshwar/layout-ui/pull/49) in [kuldeepkeshwar/layout-ui](https://github.com//kuldeepkeshwar/layout-ui)
-3. 🗣 Commented on [#78](https://github.com//kuldeepkeshwar/filbert-js/issues/78) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
-4. 🗣 Commented on [#75](https://github.com//kuldeepkeshwar/filbert-js/issues/75) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
-5. ❌ Closed PR [#47](https://github.com//kuldeepkeshwar/filbert-js/pull/47) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
+1. 🎉 Merged PR [#75](https://github.com//kuldeepkeshwar/filbert-js/pull/75) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
+2. 🎉 Merged PR [#78](https://github.com//kuldeepkeshwar/filbert-js/pull/78) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
+3. 🗣 Commented on [#39](https://github.com//kuldeepkeshwar/layout-ui/issues/39) in [kuldeepkeshwar/layout-ui](https://github.com//kuldeepkeshwar/layout-ui)
+4. 🎉 Merged PR [#49](https://github.com//kuldeepkeshwar/layout-ui/pull/49) in [kuldeepkeshwar/layout-ui](https://github.com//kuldeepkeshwar/layout-ui)
+5. 🗣 Commented on [#78](https://github.com//kuldeepkeshwar/filbert-js/issues/78) in [kuldeepkeshwar/filbert-js](https://github.com//kuldeepkeshwar/filbert-js)
 <!--END_SECTION:activity-->
