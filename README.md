@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ![Kuldeep Keshwar's github stats](https://github-readme-stats.vercel.app/api?username=kuldeepkeshwar&show_icons=true)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/kuldeepkeshwar/layout-ui/pull/126) in [kuldeepkeshwar/layout-ui](https://github.com/kuldeepkeshwar/layout-ui)
-2. 🎉 Merged PR [#125](https://github.com/kuldeepkeshwar/layout-ui/pull/125) in [kuldeepkeshwar/layout-ui](https://github.com/kuldeepkeshwar/layout-ui)
-3. 🎉 Merged PR [#127](https://github.com/kuldeepkeshwar/layout-ui/pull/127) in [kuldeepkeshwar/layout-ui](https://github.com/kuldeepkeshwar/layout-ui)
-4. 🎉 Merged PR [#128](https://github.com/kuldeepkeshwar/layout-ui/pull/128) in [kuldeepkeshwar/layout-ui](https://github.com/kuldeepkeshwar/layout-ui)
-5. 🎉 Merged PR [#122](https://github.com/kuldeepkeshwar/layout-ui/pull/122) in [kuldeepkeshwar/layout-ui](https://github.com/kuldeepkeshwar/layout-ui)
+1. ❌ Closed PR [#150](https://github.com/kuldeepkeshwar/filbert-js/pull/150) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
+2. ❌ Closed PR [#149](https://github.com/kuldeepkeshwar/filbert-js/pull/149) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
+3. ❌ Closed PR [#148](https://github.com/kuldeepkeshwar/filbert-js/pull/148) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
+4. ❌ Closed PR [#147](https://github.com/kuldeepkeshwar/filbert-js/pull/147) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
+5. 🎉 Merged PR [#126](https://github.com/kuldeepkeshwar/layout-ui/pull/126) in [kuldeepkeshwar/layout-ui](https://github.com/kuldeepkeshwar/layout-ui)
 <!--END_SECTION:activity-->
