@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ![Kuldeep Keshwar's github stats](https://github-readme-stats.vercel.app/api?username=kuldeepkeshwar&show_icons=true)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#168](https://github.com/kuldeepkeshwar/filbert-js/pull/168) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
-2. ❌ Closed PR [#167](https://github.com/kuldeepkeshwar/filbert-js/pull/167) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
-3. ❌ Closed PR [#166](https://github.com/kuldeepkeshwar/filbert-js/pull/166) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
-4. ❌ Closed PR [#165](https://github.com/kuldeepkeshwar/filbert-js/pull/165) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
-5. ❌ Closed PR [#164](https://github.com/kuldeepkeshwar/filbert-js/pull/164) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
+1. 🎉 Merged PR [#169](https://github.com/kuldeepkeshwar/filbert-js/pull/169) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
+2. 🎉 Merged PR [#171](https://github.com/kuldeepkeshwar/filbert-js/pull/171) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
+3. 🎉 Merged PR [#170](https://github.com/kuldeepkeshwar/filbert-js/pull/170) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
+4. 🎉 Merged PR [#172](https://github.com/kuldeepkeshwar/filbert-js/pull/172) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
+5. 🎉 Merged PR [#168](https://github.com/kuldeepkeshwar/filbert-js/pull/168) in [kuldeepkeshwar/filbert-js](https://github.com/kuldeepkeshwar/filbert-js)
 <!--END_SECTION:activity-->
